@@ -8,7 +8,7 @@ Implement 3 web pages with Bootstrap
 
 ---
 
-### [Reuse and polish your Bootstrap integration] (./0-homepage.html)
+### [Reuse and polish your Bootstrap integration](./0-homepage.html)
 * Copy files from [0x0B. Implement a design with bootstrap](https://github.com/felipesv/holberton-smiling-school)
 
 ### [Homepage - quotes](./1-homepage.html)
